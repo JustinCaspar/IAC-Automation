@@ -43,7 +43,7 @@ doc = Document('template.docx')
 # Replacing keys
 docx_replace(doc, **iac)
 
-savefile(doc, iac.AR)
+savefile(doc, iac.REC)
 
 # Caveats
 caveat("Please change implementation cost references if necessary.")

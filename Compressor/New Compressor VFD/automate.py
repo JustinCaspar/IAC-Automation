@@ -89,7 +89,7 @@ docx_replace(doc, **iac)
 
 docx_blocks(doc, TANK=iac.TANK)
 
-savefile(doc, iac.AR)
+savefile(doc, iac.REC)
 
 # Caveats
 caveat("Please change implementation cost references if necessary.")

@@ -69,7 +69,7 @@ add_eqn(doc, iac, '${POWEqn}', POWEqn)
 # Replacing keys
 docx_replace(doc, **iac)
 
-savefile(doc, iac.AR)
+savefile(doc, iac.REC)
 
 # Caveats
 caveat("Please manually change the font size of equations to 16.")

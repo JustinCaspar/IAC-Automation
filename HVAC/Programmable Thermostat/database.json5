@@ -1,6 +1,6 @@
 {
-// AR No., integer
-AR: 1,
+// Recommendation number 
+REC: 8,
 // City, State, string
 TOWN: "Bethlehem, PA",
 // Area, string

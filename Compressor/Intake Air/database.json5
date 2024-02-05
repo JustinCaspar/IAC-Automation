@@ -1,6 +1,6 @@
 {
-  // AR No., integer
-  AR: 1,
+  // Recommendation number 
+  REC: 8,
   // ZIP code for average outdoor temperature, ZIP, string
   ZIP: "18015",
   // hours per day, float (allows half hours)

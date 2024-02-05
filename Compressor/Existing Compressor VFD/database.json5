@@ -1,6 +1,6 @@
 {
-  // AR Num, integer
-  AR: 1,
+  // Recommendation number 
+  REC: 8,
   // Air Tank, boolean
   TANK: false,
   // Air Tank Price, int

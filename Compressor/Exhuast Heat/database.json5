@@ -1,6 +1,6 @@
 {
-  // AR No., integer
-  AR: 1,
+  // Recommendation number 
+  REC: 8,
   // hours per day, float (allows half hours)
   HR: 18.0,
   // days per week, float (allows half day on weekends)

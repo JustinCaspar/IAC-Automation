@@ -1,6 +1,6 @@
 {
-  // AR No., integer
-  AR: 2,
+  // Recommendation number 
+  REC: 8,
   // Frequent Maintenance, boolean
   FM: true,
   // HVAC size, tons, list of float

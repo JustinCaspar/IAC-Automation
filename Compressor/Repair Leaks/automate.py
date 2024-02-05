@@ -125,7 +125,7 @@ for i in reversed(range(NL.size)):
     if NL[i]==0:
         table3._tbl.remove(table3.rows[i+1]._tr)
 
-savefile(doc, iac.AR)
+savefile(doc, iac.REC)
 
 # Caveats
 caveat("Please change implementation cost references if necessary.")
